@@ -1,2 +1,4 @@
-# dw_matrix
-Matrix cz 1
+# Matrix część 1
+- a
+- b
+- c
